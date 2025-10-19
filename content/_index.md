@@ -1,5 +1,5 @@
 +++
-title = "TIERRA UNIDA ACTIVA"
+title = ""
 
 [extra]
 header = { title = "ACTUA", img = "img/logo_ACTUA.jpg", img_alt = "ACTUA" }
