@@ -2,7 +2,7 @@
 title = ""
 
 [extra]
-header = { title = "ACTUA", img = "img/logo_ACTUA.jpg", img_alt = "ACTUA" }
+header = { title = "TIERRA UNIDA ACTIVA", img = "img/logo_ACTUA.jpg", img_alt = "ACTUA" }
 section_path = "blog/_index.md"
 max_posts = 5
 +++
