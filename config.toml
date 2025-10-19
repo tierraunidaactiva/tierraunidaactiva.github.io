@@ -281,9 +281,9 @@ encode_plaintext_email = true  # Setting is ignored if email is already encoded.
  socials = [
 #     { name = "github", url = "https://github.com/welpo/", icon = "github" },
 #     { name = "soundcloud", url = "https://soundcloud.com/oskerwyld", icon = "soundcloud" },
-     { name = "instagram", url = "https://www.instagram.com/tierraunidaactiva/", icon = "instagram" },
+     { name = "instagram", url = "https://www.instagram.com/tierraunidaactiva", icon = "instagram" },
      { name = "youtube", url = "https://www.youtube.com/@tierraunidaactiva1442", icon = "youtube" },
-     { name = "facebook", url = "facebook.com/tierraunidaactiva", icon = "facebook" },
+     { name = "facebook", url = "https://facebook.com/tierraunidaactiva", icon = "facebook" },
 #     { name = "spotify", url = "https://open.spotify.com/artist/5Hv2bYBhMp1lUHFri06xkE", icon = "spotify" },
 
 ]
@@ -294,12 +294,12 @@ encode_plaintext_email = true  # Setting is ignored if email is already encoded.
 # fediverse_creator = { handle = "username", domain = "example.com" }
 
 # Extra menu to show on the footer, below socials section.
-# footer_menu = [
-#     {url = "about", name = "about", trailing_slash = true},
+footer_menu = [
+     {url = "about", name = "about", trailing_slash = true},
 #     {url = "privacy", name = "privacy", trailing_slash = true},
 #     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
 #     {url = "https://example.com", name = "external link", trailing_slash = true},
-# ]
+]
 
 # Enable a copyright notice for the footer, shown between socials and the "Powered by" text.
 # $TITLE will be replaced by the website's title.
