@@ -1,13 +1,13 @@
-base_url = "https://YOUR_URL.TLD"
-title = "site title"
-description = "YOUR_SITE_DESCRIPTION"
-author = "YOUR_NAME"
+base_url = "https://tierraunidaactiva.github.io"
+title = "ACTUA"
+description = "ACTUA"
+author = "ACTUA"
 theme = "tabi"
 generate_feeds = true
 compile_sass = true
 minify_html = true
 build_search_index = true
-default_language = "en"
+default_language = "es"
 taxonomies = [{name = "tags", feed = true}]
 
 
