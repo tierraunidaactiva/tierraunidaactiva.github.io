@@ -278,11 +278,11 @@ encode_plaintext_email = true  # Setting is ignored if email is already encoded.
 #     { name = "github", url = "https://github.com/welpo/", icon = "github" },
 #     { name = "soundcloud", url = "https://soundcloud.com/oskerwyld", icon = "soundcloud" },
      { name = "instagram", url = "https://www.instagram.com/tierraunidaactiva/", icon = "instagram" },
-     { name = "youtube", url = "https://www.youtube.com/channel/UCL_8y3deBIkXxbauKy0rxKQ", icon = "youtube" },
+     { name = "youtube", url = "https://www.youtube.com/@tierraunidaactiva1442", icon = "youtube" },
      { name = "facebook", url = "facebook.com/tierraunidaactiva", icon = "facebook" },
 #     { name = "spotify", url = "https://open.spotify.com/artist/5Hv2bYBhMp1lUHFri06xkE", icon = "spotify" },
 
-# ]
+]
 
 # Fediverse profile.
 # Adds metadata to feature the author's profile in Mastodon link previews.
