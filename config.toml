@@ -1,5 +1,5 @@
 base_url = "https://tierraunidaactiva.github.io"
-title = "ACTUA"
+title = "TIERRA UNIDA ACTIVA"
 description = "ACTUA"
 author = "ACTUA"
 theme = "tabi"
@@ -274,12 +274,14 @@ encode_plaintext_email = true  # Setting is ignored if email is already encoded.
 # Social media links for the footer.
 # Built-in icons: https://github.com/welpo/tabi/tree/main/static/social_icons
 # To use a custom icon, add it to your site's `static/social_icons` directory.
-# socials = [
+ socials = [
 #     { name = "github", url = "https://github.com/welpo/", icon = "github" },
 #     { name = "soundcloud", url = "https://soundcloud.com/oskerwyld", icon = "soundcloud" },
-#     { name = "instagram", url = "https://instagram.com/oskerwyld", icon = "instagram" },
-#     { name = "youtube", url = "https://youtube.com/@oskerwyld", icon = "youtube" },
+     { name = "instagram", url = "https://www.instagram.com/tierraunidaactiva/", icon = "instagram" },
+     { name = "youtube", url = "https://www.youtube.com/channel/UCL_8y3deBIkXxbauKy0rxKQ", icon = "youtube" },
+     { name = "facebook", url = "facebook.com/tierraunidaactiva", icon = "facebook" },
 #     { name = "spotify", url = "https://open.spotify.com/artist/5Hv2bYBhMp1lUHFri06xkE", icon = "spotify" },
+
 # ]
 
 # Fediverse profile.
