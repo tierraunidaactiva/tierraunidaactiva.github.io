@@ -253,7 +253,7 @@ menu = [
     # { name = "archive", url = "archive", trailing_slash = true },
     { name = "tags", url = "tags", trailing_slash = true },
     { name = "projects", url = "projects", trailing_slash = true },
-    { name = "somos", url = "somos", trailing_slash = true },
+    # { name = "somos", url = "somos", trailing_slash = true },
     { name = "ambiental", url = "ambiental", trailing_slash = true },
     { name = "comunitario", url = "comunitario", trailing_slash = true },
     { name = "cultural", url = "cultural", trailing_slash = true },
