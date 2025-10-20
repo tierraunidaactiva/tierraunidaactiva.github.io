@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://tierraunidaactiva.github.io/sitemap.xml
